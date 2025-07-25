@@ -1,2 +1,0 @@
-# No external dependencies required
-# Uses built-in libraries: math, random, datetime
